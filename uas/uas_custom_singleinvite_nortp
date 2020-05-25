@@ -1,0 +1,2 @@
+#!/bin/bash
+sipp -sf xml/uas_custom_singleinvite_nortp.xml  -i 172.25.50.10 

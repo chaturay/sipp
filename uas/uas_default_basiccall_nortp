@@ -1,0 +1,2 @@
+#!/bin/bash
+sipp -sn uas -i 172.25.50.10
