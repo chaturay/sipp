@@ -1,0 +1,2 @@
+sipp -sf xml/uac_custom_basicrefercall_nortp.xml -bind_local -i 172.16.1.10 -s 0208056232 172.16.1.14 -m 1 -d 10000
+

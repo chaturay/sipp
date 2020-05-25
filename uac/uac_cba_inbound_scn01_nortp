@@ -1,0 +1,3 @@
+#!/bin/bash
+sipp -sf xml/uac-cba.xml -bind_local -i 172.16.1.10 -s 0291185831 172.16.1.14 -m 1 -d 10000
+

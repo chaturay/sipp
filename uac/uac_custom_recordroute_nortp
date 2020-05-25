@@ -1,0 +1,4 @@
+!/bin/bash
+sipp -sf xml/uac_custom_recordroute_nortp.xml -bind_local -i 172.16.1.10 -s 028009001 172.16.1.14 -m 1 -d 5000
+
+

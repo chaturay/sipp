@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sudo sipp -sn uac_pcap -m 1 -d 1000 -bind_local -i 172.16.1.10 -s 0280852436 172.16.1.14
+
