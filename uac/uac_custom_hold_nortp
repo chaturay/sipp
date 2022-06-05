@@ -1,0 +1,4 @@
+!/bin/bash
+sipp -sf xml/uac_custom_hold_nortp.xml -bind_local -i 123.102.114.161 -s 028009001 123.102.114.164 -m 1 -d 330000
+
+
