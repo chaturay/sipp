@@ -1,0 +1,3 @@
+!/bin/bash
+sipp -sf xml/uac_custom_singleinvite_nortp.xml  -s 0000001012222 10.60.132.114 -m 1
+
