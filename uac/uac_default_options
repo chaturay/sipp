@@ -1,0 +1,3 @@
+!/bin/bash
+sipp -sf xml/options.xml  -s 1000 10.61.112.5 -m 1
+
