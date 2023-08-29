@@ -1,0 +1,2 @@
+#/bin/bash
+sipp -p 5060 -sf xml/uac_register.xml -inf xml/users.csv  10.60.132.115:5060 -m 1
