@@ -1,2 +1,2 @@
 !/bin/bash
-sipp -sf xml/uac_custom_singleinvite_custom_header_nortp.xml -s 441624684444 az1.lab.se2.sbc.cyara.com -m 1
+sipp -sf xml/uac_custom_singleinvite_custom_header_nortp.xml -s 61299993283 az1.lab.se2.sbc.cyara.com -m 1
